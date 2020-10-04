@@ -1,0 +1,21 @@
+# mkbook
+
+mkbook - mkfile to make book from files that contain separated chapters.
+
+
+## Description
+
+The root directory of book contains chapters in
+[chapter number].[chapter name] format.
+
+You can use any text format you like:
+ * roff
+ * markdown
+ * plain text
+
+
+## Why
+
+The point of creating this was that I hate moving
+chapters "by hand". So now I can be concentrated
+on writing just one chapter.

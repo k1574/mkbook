@@ -1,0 +1,7 @@
+NAME = book_example
+CHAPTER_DIR = c
+CHAPTER_SEP = '
+
+- - -
+
+'
